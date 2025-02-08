@@ -1,6 +1,10 @@
 # PhasTimer
 A timer for Phasmophobia, take time from using smudgesticks till the hunt begins.
 
+DISCLAIMER: I dont have money for a certificate, which means that when you try to run the app for the first time you will have to click "More info" and then click "Run anyways".
+
+If you dont trust the application you can build it yourself or read through the code in this repo.
+
 ### Download:
 https://github.com/zhiftyDK/phastimer/releases/tag/PhasTimer
 
