@@ -15,3 +15,9 @@ color = #32CD32
 * Default color is lime green (Takes any hex color value)
 
 When the config.ini file is configured to you liking, then you should just be able to open Phasmophobia and PhasTimer.
+
+### Build the .exe yourself:
+Build command:
+```bash
+pyinstaller main.py --onefile --noconsole --add-data="stopwatch.ico;images" --icon=stopwatch.ico --name=PhasTimer
+```
